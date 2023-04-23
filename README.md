@@ -92,6 +92,8 @@
 ```
 
 # BS-nav example code for browser inspention
+sample page at https://bs-nav-example-v2.netlify.app/
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
