@@ -91,7 +91,7 @@
 </html>
 ```
 
-# BS-nav example code for browser inspention
+# BS-nav example code for browser inspection
 sample page at https://bs-nav-example-v2.netlify.app/
 
 ```html
